@@ -32,3 +32,4 @@ settings.gradle
 build
 
 *.iml
+*.json
