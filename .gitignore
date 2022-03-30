@@ -31,4 +31,4 @@ gradlew.bat
 settings.gradle
 build
 
-.iml
+*.iml
